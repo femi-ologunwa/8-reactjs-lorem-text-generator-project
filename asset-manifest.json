@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/8-reactjs-lorem-text-generator-project/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/8-reactjs-lorem-text-generator-project/static/js/main.428283b0.chunk.js",
+    "main.js.map": "/8-reactjs-lorem-text-generator-project/static/js/main.428283b0.chunk.js.map",
+    "runtime-main.js": "/8-reactjs-lorem-text-generator-project/static/js/runtime-main.4f021a30.js",
+    "runtime-main.js.map": "/8-reactjs-lorem-text-generator-project/static/js/runtime-main.4f021a30.js.map",
+    "static/js/2.d8a71053.chunk.js": "/8-reactjs-lorem-text-generator-project/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/8-reactjs-lorem-text-generator-project/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/8-reactjs-lorem-text-generator-project/index.html",
+    "precache-manifest.7b47de87e0c57d7e941f14c6f409a3ce.js": "/8-reactjs-lorem-text-generator-project/precache-manifest.7b47de87e0c57d7e941f14c6f409a3ce.js",
+    "service-worker.js": "/8-reactjs-lorem-text-generator-project/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/8-reactjs-lorem-text-generator-project/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/8-reactjs-lorem-text-generator-project/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f021a30.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.428283b0.chunk.js"
+  ]
+}
