@@ -7,6 +7,7 @@ function App() {
 
    const handleSubmit = (e) => {
       e.preventDefault();
+      setText(data);
    };
 
    return (
@@ -26,14 +27,9 @@ function App() {
             </button>
          </form>
          <article className='lorem-text'>
-            <p>
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-               laudantium officia facilis obcaecati eos voluptatem?
-            </p>
-            <p>
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-               laudantium officia facilis obcaecati eos voluptatem?
-            </p>
+            {text.map((item, index) => {
+               return <p key={index}>{item}</p>;
+            })}
          </article>
       </section>
    );
