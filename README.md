@@ -1,11 +1,11 @@
-#### Homepage
+#### React Text Generator
 
-[view](https://femi-ologunwa.github.io/6-tabs/)
+[view page](https://femi-ologunwa.github.io/6-tabs/)
 
-![](./homescreen.png);
+![](./homescreen.gif)
 
 ### Implementation
 
--  Fetching data items from a data file into state
--  A basic form to get user input
--  A basic form submit handler to manipulate state
+-  Fetching a seet of data items from a data file (rather than fetching everything) into state.
+-  A basic form to get user input.
+-  A basic form submit handler to manipulate state.
