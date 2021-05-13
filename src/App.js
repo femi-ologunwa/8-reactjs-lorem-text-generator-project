@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import data from './data';
 
 function App() {
-   const [count, setCount] = useState(0); //number of paragraphs to generate
+   const [count, setCount] = useState(1); //number of paragraphs to generate
    const [text, setText] = useState([]); //text of paragraphs
 
    const handleSubmit = (e) => {
